@@ -1,0 +1,14 @@
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\bin\Debug\net9.0\Gorgus-RPG.exe
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\bin\Debug\net9.0\Gorgus-RPG.deps.json
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\bin\Debug\net9.0\Gorgus-RPG.runtimeconfig.json
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\bin\Debug\net9.0\Gorgus-RPG.dll
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\bin\Debug\net9.0\Gorgus-RPG.pdb
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\obj\Debug\net9.0\Gorgus-RPG.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\obj\Debug\net9.0\Gorgus-RPG.AssemblyInfoInputs.cache
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\obj\Debug\net9.0\Gorgus-RPG.AssemblyInfo.cs
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\obj\Debug\net9.0\Gorgus-RPG.csproj.CoreCompileInputs.cache
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\obj\Debug\net9.0\Gorgus-RPG.dll
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\obj\Debug\net9.0\refint\Gorgus-RPG.dll
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\obj\Debug\net9.0\Gorgus-RPG.pdb
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\obj\Debug\net9.0\Gorgus-RPG.genruntimeconfig.cache
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\obj\Debug\net9.0\ref\Gorgus-RPG.dll
