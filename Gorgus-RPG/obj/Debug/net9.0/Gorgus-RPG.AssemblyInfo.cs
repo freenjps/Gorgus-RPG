@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Gorgus-RPG")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d7a36eb12de3cd82efa6c2a600d0c9df2ce868c5")]
 [assembly: System.Reflection.AssemblyProductAttribute("Gorgus-RPG")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Gorgus-RPG")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

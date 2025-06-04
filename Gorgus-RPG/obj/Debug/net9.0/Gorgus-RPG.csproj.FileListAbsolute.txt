@@ -12,3 +12,4 @@ C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\obj\Debug\net9.0\refint\Go
 C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\obj\Debug\net9.0\Gorgus-RPG.pdb
 C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\obj\Debug\net9.0\Gorgus-RPG.genruntimeconfig.cache
 C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\obj\Debug\net9.0\ref\Gorgus-RPG.dll
+C:\Users\vladi\Documents\GitHub\Gorgus-RPG\Gorgus-RPG\obj\Debug\net9.0\Gorgus-RPG.sourcelink.json
